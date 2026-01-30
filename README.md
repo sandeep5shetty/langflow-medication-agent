@@ -110,7 +110,7 @@ This ensures explainable and clinically accepted scoring.
 
 - Sandeepa N R
 - Shrilaxmi Heralagi
-- Tanish
+- Tanish G
 
 We are passionate about building responsible AI solutions that create real healthcare impact.
 
